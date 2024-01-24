@@ -3,7 +3,6 @@
 Desarrollado con PHP, base de datos SQL y estilado con bootstrap.
 
 ![image](https://github.com/MichelosRey/Gestor-de-personal/assets/97351775/9d04651a-1f82-493d-8c51-44d40b47959f)
-![image](https://github.com/MichelosRey/Gestor-de-personal/assets/97351775/ebd871ec-3bc7-48d9-b1b4-a6201d559f32)
 ![image](https://github.com/MichelosRey/Gestor-de-personal/assets/97351775/96d9894b-11b9-4fa0-8359-78ab0a3fd343)
 ![image](https://github.com/MichelosRey/Gestor-de-personal/assets/97351775/94a9da6c-f512-45b1-9b83-3f22d47bbcb4)
 ![image](https://github.com/MichelosRey/Gestor-de-personal/assets/97351775/58815b1d-e27e-4307-8ce5-cec966e8a9d1)
