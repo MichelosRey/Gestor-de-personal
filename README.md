@@ -1,7 +1,7 @@
 # Gestor-de-personal
 
 
-## Desarrollado con PHP, base de datos SQL y estilado con bootstrap.
+### Desarrollado con PHP, base de datos SQL y estilado con bootstrap.
 
 ![image](https://github.com/MichelosRey/Gestor-de-personal/assets/97351775/9d04651a-1f82-493d-8c51-44d40b47959f)
 ![image](https://github.com/MichelosRey/Gestor-de-personal/assets/97351775/96d9894b-11b9-4fa0-8359-78ab0a3fd343)
